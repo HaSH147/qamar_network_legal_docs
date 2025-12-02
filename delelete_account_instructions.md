@@ -67,6 +67,12 @@ toute autre donnée collectée dans le cadre de votre utilisation.
 
 Certaines données anonymisées peuvent être conservées à des fins statistiques uniquement, sans possibilité d’identification.
 
+🟦 Suppression des données sans supprimer le compte – Qamar Network
+
+Contactez-nous sur cette adresse mail :
+📧 contact@moonweds.com
+
+
 5. Contact
 
 Pour toute question concernant la suppression ou la gestion de vos données :
