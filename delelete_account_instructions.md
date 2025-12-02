@@ -24,9 +24,7 @@ Une fois cette action validée :
 
 votre compte est définitivement supprimé,
 
-vos données personnelles sont effacées de nos systèmes,
-
-vos accès et abonnements associés sont désactivés.
+vos données personnelles sont effacées de nos systèmes, vos accès et abonnements associés sont désactivés.
 
 Cette action est irréversible.
 
