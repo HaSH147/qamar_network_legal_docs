@@ -57,13 +57,11 @@ Une confirmation vous sera envoyée dès que la suppression sera effective.
 
 La suppression du compte entraîne l’effacement définitif des éléments suivants :
 
-données de profil (nom, email, informations personnelles),
+données de profil (nom, email, informations personnelles, photo de profil),
 
-données de santé et bien-être associées à MoonHealth,
+données liées aux coachings et favoris associées à MoonHealth,
 
-données liées aux coachings ou suivis dans MoonWeds,
-
-favoris, historiques, paramètres dans MoonSoul,
+données liées aux coachings, suivis et le formulaire dans MoonWeds,
 
 données de connexion et préférences,
 
