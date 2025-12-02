@@ -50,3 +50,7 @@ Qamar Network ne pourra être tenue responsable en cas d'impossibilité d’exé
 
 Ces CGV sont régies par le **droit suisse**. En cas de litige, les tribunaux compétents du canton de Vaud seront seuls habilités.
 
+
+
+
+
